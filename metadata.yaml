@@ -1,0 +1,34 @@
+_repo: Belinda-of-the-Red-Cross_74567
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Scott, A. O. (Arthur O.)
+    alias: Scott, Arthur O.
+    gutenberg_agent_id: '25205'
+    url: http://www.gutenberg.org/2009/agents/25205
+creator:
+  author:
+    agent_name: Hamilton, Robert W.
+    gutenberg_agent_id: '57559'
+    url: http://www.gutenberg.org/2009/agents/57559
+description: ''
+gutenberg_issued: '2024-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74567'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/ls?q1=Belinda+of+the+red+cross&field1=ocr&a=srchls&ft=ft&lmt=ft
+pgterms:marc905: 20221207161707hamilton
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note: Jamie Brydone-Jack, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bSully and Kleinteich, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Belinda of the Red Cross
+url: http://www.gutenberg.org/ebooks/74567
