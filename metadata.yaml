@@ -6,12 +6,17 @@ contributor:
     alias: Scott, Arthur O.
     gutenberg_agent_id: '25205'
     url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 74567-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Robert W.
     gutenberg_agent_id: '57559'
     url: http://www.gutenberg.org/2009/agents/57559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74567#Belinda-of-the-Red-Cross
 gutenberg_issued: '2024-10-12'
 gutenberg_type: Text
 identifiers:
